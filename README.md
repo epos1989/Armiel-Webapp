@@ -1,2 +1,2 @@
-# Armiel-Webapp
+# Armiel
 Manga, Manhwa, Comic speichern und Übersetzten
